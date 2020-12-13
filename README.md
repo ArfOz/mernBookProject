@@ -1,1 +1,1 @@
-# mernBookProject
+# mern-stack
